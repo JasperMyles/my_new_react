@@ -1,0 +1,11 @@
+.section1 img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.section1 {
+    padding-top: 90px;
+}
